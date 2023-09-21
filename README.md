@@ -9,7 +9,7 @@ Base para um bot de discord usando Node.JS!
 | Say Embed ou Normal | Ping |
 | Ban | Avatar |
 | Mute | Akinator | 
-| Unmute |  | 
+| Unmute | 8ball | 
 
 # Estrutura da Handler usada
   ```js
@@ -43,5 +43,6 @@ Base para um bot de discord usando Node.JS!
   Discord.JS = https://www.npmjs.com/package/discord.js <br>
   Fs = https://www.npmjs.com/package/fs 
   Ms = https://www.npmjs.com/package/pretty-ms
+  Akinator = https://www.npmjs.com/package/discord.js-akinator
 </div> 
  <hr></hr>
