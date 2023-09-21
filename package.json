@@ -1,0 +1,12 @@
+{
+  "name": "base-bot-discord-v14",
+  "version": "1.0.0",
+  "description": "Base para um bot de discord em SlashCommands feito em Node.JS",
+  "main": "index.js",
+  "author": "BDarKBR",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "fs": "^0.0.1-security"
+  }
+}
