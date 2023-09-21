@@ -2,6 +2,15 @@
 
 Base para um bot de discord usando Node.JS!
 
+# Comandos Da Base
+
+| Admin | Utilidades |
+|-----------------------|-----------------------|
+| Say Embed ou Normal | Ping |
+| Ban | Avatar |
+| Mute | Akinator | 
+| Unmute |  | 
+
 # Estrutura da Handler usada
   ```js
   //=====Módulos
@@ -33,5 +42,6 @@ Base para um bot de discord usando Node.JS!
   <hr></hr>
   Discord.JS = https://www.npmjs.com/package/discord.js <br>
   Fs = https://www.npmjs.com/package/fs 
+  Ms = https://www.npmjs.com/package/pretty-ms
 </div> 
  <hr></hr>
