@@ -41,8 +41,13 @@ Base para um bot de discord usando Node.JS!
   ~> Npms Usados
   <hr></hr>
   Discord.JS = https://www.npmjs.com/package/discord.js <br>
-  Fs = https://www.npmjs.com/package/fs 
-  Ms = https://www.npmjs.com/package/pretty-ms
-  Akinator = https://www.npmjs.com/package/discord.js-akinator
+  Fs = https://www.npmjs.com/package/fs <br>
+  Ms = https://www.npmjs.com/package/pretty-ms <br>
+  Akinator = https://www.npmjs.com/package/discord.js-akinator 
 </div> 
- <hr></hr>
+<hr></hr>
+
+# Demonstração
+
+![]()
+
